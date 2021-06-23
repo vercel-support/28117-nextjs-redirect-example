@@ -11,7 +11,7 @@ module.exports = {
           }
         ],
         permanent: false,
-        destination: 'https://venue.bmssearch.net/:eventQuery*?'
+        destination: 'https://venue.bmssearch.net/:eventQuery*'
       },
     ]
   },
